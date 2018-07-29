@@ -34,6 +34,7 @@ h1 {
     padding: 40px;
     margin-top: 40px;
     border: 1px solid gray;
+    background-color: white;
 }
 
 .container {
@@ -41,12 +42,14 @@ h1 {
 }
 
 .footer {
+    border-top: 10px #4aaaa5 solid;
+    box-sizing: border-box;
     position: absolute;
     bottom: 0;
     width: 100%;
     height: 60px;
-    background-color: #4aaaa5;
-    padding-top: 30px;
+    background-color: gray;
+    padding-top: 20px;
 }
 
 .carousel-caption {
@@ -61,6 +64,7 @@ h1 {
 
 .footertext {
     color: white;
+    margin-bottom: 0;
 }
 
 input[type=text],
