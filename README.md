@@ -8,13 +8,13 @@ Building a professional portfolio while learning how to use the Bootstrap grid s
 # Link to Deployed Site
 <!-- make a link to the deployed site --> 
 <!-- [What the user will see](the link to the deployed site) -->
-[Basic Portfolio](https://liangbryan2.github.io/Bootstrap-Portfolio/)
+[Bootstrap Portfolio](https://liangbryan2.github.io/Bootstrap-Portfolio/)
 
 # Images
 <!-- take a picture of the image and add it into the readme  -->
 <!-- ![image title](path or link to image) -->
-![index](index.png)
-
+![index](images/index.png)
+![index-mobile](images/index-mobile.png)
 # Technology Used
 <!-- make a list of technology used -->
 <!-- what you used for this web app, like html css -->
