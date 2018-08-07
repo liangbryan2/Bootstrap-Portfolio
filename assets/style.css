@@ -52,6 +52,10 @@ h1 {
     padding-top: 20px;
 }
 
+.carousel-img {
+    height: auto;
+}
+
 .carousel-caption {
     right: 0;
     left: 0;
